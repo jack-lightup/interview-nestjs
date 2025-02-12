@@ -1,7 +1,8 @@
 # 
-npm i
-npm install -g @nestjs/cli
-npx prisma init
+pnpm i
+pnpm install -g @nestjs/cli
+npx prisma migrate dev --name init
+
 
 # User & Transactions API
 請完成 `/users` 和 `/transactions` 的 API：
