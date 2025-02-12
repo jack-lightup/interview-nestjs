@@ -1,3 +1,8 @@
+## 面試
+**可以查文件不能用ai**
+#### 文件
+https://docs.nestjs.com/
+
 ## 安裝步驟
 pnpm i
 pnpm install -g @nestjs/cli
